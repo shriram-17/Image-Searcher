@@ -1,1 +1,9 @@
 ./env
+./.idea
+./.gitignore
+./.git
+./.idea
+./.idea
+./__pycache__
+./.vscode
+./upload
